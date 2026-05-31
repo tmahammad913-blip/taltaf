@@ -6,7 +6,7 @@
 
 📍 Bangalore, India  
 📫 taltaf913@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mahammadalthaf)
+🔗 [LinkedIn]([https://linkedin.com/in/mahammadalthaf](https://www.linkedin.com/in/mahammad-althaf-t-4a410111a/))
 
 ---
 
