@@ -6,7 +6,7 @@
 
 📍 Bangalore, India  
 📫 taltaf913@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/mahammad-althaf-t-4a410111a))
+🔗 [LinkedIn]([https://www.linkedin.com/in/mahammad-althaf-t-4a410111a])
 
 ---
 
@@ -107,4 +107,4 @@ Python · FastAPI · PySpark · SQL · gRPC · PostgreSQL · Redis · Kafka · P
 
 ---
 
-💬 *Open to senior MLOps / AIOps / AI Engineering roles. Let's connect on [LinkedIn](https://www.linkedin.com/in/mahammad-althaf-t-4a410111a).*
+💬 *Open to senior MLOps / AIOps / AI Engineering roles. Let's connect on [LinkedIn][https://www.linkedin.com/in/mahammad-althaf-t-4a410111a].*
